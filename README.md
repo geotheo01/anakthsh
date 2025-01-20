@@ -7,4 +7,4 @@
 ## Το github repo της εργασίας περιέχει
 1 αρχείο jupyter notebook,\
 2 αρχεία json για τα δεδομένα του κώδικα,\
-1 αρχείο doc για το documentation της εργασίας
+1 αρχείο για το documentation της εργασίας
